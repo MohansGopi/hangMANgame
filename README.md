@@ -94,3 +94,7 @@ STAGES OF THE YOUR FIEND LIVES RUNNING OUT
  
  
  When the player end-up with the last stage then you lose the game 
+ 
+ 
+ 
+ In this repository the 
